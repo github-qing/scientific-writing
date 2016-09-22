@@ -1,6 +1,6 @@
 ##Water bears
 
-> 天气变得越来越炎热，一个太阳、两个太阳、第三个太阳升起来。“快脱水！”有人大叫道。人们纷纷将自己脱水成一个薄片，像书简一样卷起来，收到洞穴里。直到下一次合适生存的纪元出现，在复苏。有些来不及脱水干燥的，就像一副来不及收起的画卷，被撕裂、四处飘散。 —《三体》第一部  
+< 天气变得越来越炎热，一个太阳、两个太阳、第三个太阳升起来。“快脱水！”有人大叫道。人们纷纷将自己脱水成一个薄片，像书简一样卷起来，收到洞穴里。直到下一次合适生存的纪元出现，在复苏。有些来不及脱水干燥的，就像一副来不及收起的画卷，被撕裂、四处飘散。 —《三体》第一部  
 
 
 看过《三体》的人，一定对三体游戏中这个场景印象深刻。我们感受着非恒纪元、有三颗太阳的人类是面临着巨大的不可预料性，极寒、极热、极干燥、极其漫长的黑暗或白日，无法预料的出现和消失。而“人类”只能发展出脱水收藏的生存技能，以一种脱水休眠的状态来抵御各种极端环境。*这个蓝色星球上，几十亿的发展演化，有着几位丰富多样的生物生产在各式的环境中。例如深海、火山岩、沙漠，*现实生活中，一个生物的生命循环极难遭遇这些极端环境，却有一种像熊的极小型虫子，拥有这样“三体人”类似、更强大的技能。
@@ -18,6 +18,8 @@
 身体蜷缩成桶状 背侧的甲片叠在一起 弹性角质层收缩
 但当环境好转时，身体又可以再复苏过来
 
+隐生状态下，水熊虫处于假死状态，新陈代谢减弱10000倍。
+
 > 缓步动物门具有全部四种隐生（Cryptobiosis）性（即低湿隐生Anhydrobiosis、低温隐生（Cryobiosis）、变渗隐生（Osmobiosis）及缺氧隐生（Anoxybiosis）），能够在恶劣环境下停止所有新陈代谢。缓步动物也因此被认为是生命力最强的动物。在隐生的情况下，一般可以在高温（151 °C）、接近绝对零度（-272.8 °C）、高辐射、真空或高压的环境下生存数分钟至数日不等。曾经有缓步动物隐生超过120年的记录。
 
 > *水熊虫的承受真空、辐射、毒素、高温、干燥、极端pH等的抗性点数确实点得很高，但是并不是说它可以在这样的环境中也照样像图中这样悠然自得地生活，而是进入一种几乎没有任何生命体征且高度失水的隐生状态，这种休眠状态可以持续很久，当然，并不是说水熊虫凭借这个技能就可以在任何环境中高枕无忧了，一旦环境胁迫接触，实际上只有一部分水熊虫可以及时从休眠状态中恢复，但是这货偏偏繁殖能力也很强，所以一旦环境恢复，很快就可以恢复到原来的数量水平。*
@@ -27,6 +29,7 @@
 - 时间，X射线——活着
 - 2007年，科学家发现真空环境——活着
 - 高压，最深海床6倍压力
+- 
 
 就在科学家准备复活猛犸象、冻存绝症患者带来年科技发达时在苏醒时，日本试着复述了冻了30年的水熊虫。那是一群冻在南极的水熊虫，1983年被发现，之后一直隔离保持在零下20℃的环境下。2014年成功解冻，科学家们成功地将一个卵子和一个活体动物复活。两星期后，这个活体动物开始移动并吃食。这个卵子又产了另外19个卵子，其中孵化成功的有14个卵子。研究者称，这些孵化出的新生幼仔并无缺陷和异常。
 
@@ -38,38 +41,53 @@
 
 ### 真假秘密
 
-2015年末，….大学科学团队，发表了水熊虫的第一篇基因组文章，以（亚种）的草图分析，说水熊虫的基因组中拥有大量的外源迁移基因。科研工作这推测水熊虫正是因为这种“拿来主义”的技能，获取其他物种的技能，来应对各种的极端环境。  
+2015年末，北卡罗来纳大学科学团队，发表了水熊虫的第一篇基因组文章，以（亚种）的草图分析，说水熊虫的基因组中拥有大量的外源迁移基因，并推测这些DNA事透过水平基因转移（horizontal gene transfer, HGT）形成的。科研工作这推测水熊虫正是因为这种“拿来主义”的技能，获取其他物种的技能，来应对各种的极端环境。  
 
 “基因小偷“的技能看似简单、粗暴又有效，快速吸引各大媒体的报道和转载，却也引来基因科学家的质疑：
 
 1.该组装的基因组过大，不符合同源物种的大小；
-2.读取密码的水熊虫是一类并不擅长在极端环境生活的亚种
+2.读取密码的水熊虫是一类并不擅长在极端环境生活的亚种 
 3.如此高的外源迁移比例........
 
-2016年初，伦敦学院的团队报道，并未发现大规模外源迁移基因，之前报道的外源基因，是来自样本污染。水熊虫技能来自何处，再次陷入迷雾。
+2016年初，爱丁堡大学的团队报道，并未发现大规模外源迁移基因，之前报道的外源基因，是来自样本污染。水熊虫技能来自何处，再次陷入迷雾。
 
 2016年8月22日，《自然通讯》（nature communication）发表东京大学对水熊虫的深度基因组文章，在选取抗极端环境的水熊虫的情况下，进行仔细的清洁（外部和消化系统）的前提下，深度测序，再次认证水熊虫**并无**异常高比例的外源迁移基因，并寻找到对特殊环境适应的一些线索。
 
-
+>於是透過把卵消毒、讓水熊蟲保持飢餓，並且針對牠們使用抗生素，而營造出一個極端艱困的環境，只有最頑強的水熊蟲得以存活下去。這群科學家因而能精確計算出水熊蟲的基因組，發現當中只有 1.2% 的比率來自其他物種，證明了水平基因轉移並非水熊蟲獲得環境適應力的主要方式。
 ### 水熊虫的秘密  
 
 憨掬可爱的水熊虫，当面临缺水的情况时，会见见脱水，形成只有原本身体1/3大小的球型，以这种“隐生”的状态度过极端环境，等待生命之水的再次到来。
 
-#### 抗氧化
+### 抗氧化
 
 - 外源迁移基因来自多个方面，主要来自真菌  
 - 外源迁移基因的确对特殊环境的适应有影响 Catalase
 >these functional HGT genes included several tolerance-related genes, for example, catalases. Catalase is an antioxidant enzyme that decomposes hydrogen peroxide, which is hazardous to the organism, and antioxidant enzymes are presumed important to counteract oxidative stress during desiccation18. 
 
+帮助水熊虫在脱水时氧化，以及快恢复受损DNA
 
 
 
-#### 伤害修复
-- 
+### 伤害修复
+- Dsup（Damage suppressor）基因 水熊虫独有的基因，能够发育出新的蛋白质，形成保护机制，让DNA链免于破损。**当这些特殊合成的蛋白质被移到肾脏的细胞系（cell
+line）上时，这些细胞比一般未经修改的正常细胞更能有效抵挡X光与过氧化氢的破坏。**
+
+与它一起培养的人类细胞，当近距离接受辐射时，发生放射性衰变的细胞数是正常的一般。
+
+> 一个单一的基因就足以提高人类培养细胞的辐射耐受性。 东京大学生物学家TaKUMA Hashimoto 说。
 
 
-
+>The researchers believe the protein helps protect tardigrade DNA from the dangerous side effects of radiation exposure and repair any damage that does occur. When they manipulated human cells to make them produce the tardigrade protein, those cell cultures experienced some 40 percent less damage from X-ray exposure than normal cells.
+Kunieda说，耐受X线是这种动物适应严重脱水环境的结果。严重脱水能对生物分子造成严重破坏，甚至能像x射线一样打破DNA。
 
 ###三体人，还远吗?
+
+Ingemar Jönsson, an evolutionary ecologist who studies tardigrades at Sweden's Kristianstad University but wasn't involved in the new study, told Nature that the findings were “highly interesting for medicine.”
+
+“It could be helpful for space flight, radiotherapy and radiation workers in the far future,” lead study author Takekazu Kunieda told New Scientist.
+
+For now, any human applications are totally speculative — though I welcome a future of genetically engineered moss-piglet-people populating the cosmos. But while it might be quite a while before we can steal tardigrade powers for ourselves, scientists are likely to find many more strange, protective proteins in water bears very soon.
+
+"They survive a lot of different kinds of extremes," Goldstein said. "So there are probably a lot of kinds of protectants. It’s an exciting finding, and I expect we’ll find a lot more proteins like this."
 
 
